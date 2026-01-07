@@ -1,0 +1,7 @@
+{
+  "name": "24Seven Connect",
+  "description": "A hybrid 24-hour business platform connecting local merchants and customers for instant online and physical transactions with real-time stock and preparation tracking.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
